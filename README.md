@@ -28,8 +28,13 @@ minutes\: 英語で「議事録」という意味
 - お気に入りページ
 
 ## 技術スタック
+[本家qiita](http://increments.co.jp/jobs/engineers)
 - アプリケーションフレームワーク : Ruby on Rails
 - フロントエンドフレームワーク : 特に使用しない予定。reactはいったん検討する。
 - インフラ : Heroku->AWS
 - DB : ???
 - 検索機能 : ElasticSearch
+
+## 懸念点
+- なりすまし対策
+- マネタイズ
